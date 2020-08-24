@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Exit survey from employees of the Australian's Education Department.
 
-You can use the [editor on GitHub](https://github.com/asaboveasbelow/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### **Introduction**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The survey was conducted in  [Department of Education, Training and Employment](https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Queensland)) ([DETE](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey)) and the Technical and Further Education ([TAFE](https://data.gov.au/dataset/ds-qld-89970a3b-182b-41ea-aea2-6f9f17b5907e/details?q=exit%20survey)) institute in Queensland, Australia.
 
-### Markdown
+The project has to responde to:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Are employees who only worked for the institutes for a short period  of time resigning due to some kind of dissatisfaction? What about  employees who have been there longer?
 
-```markdown
-Syntax highlighted code block
+- Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
 
-# Header 1
-## Header 2
-### Header 3
+  ![](C:\Users\user\Downloads\au_edu.jpg)
 
-- Bulleted
-- List
+  #### **Technologies**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asaboveasbelow/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Python 3.6
