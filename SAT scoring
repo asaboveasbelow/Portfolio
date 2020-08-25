@@ -1,0 +1,13 @@
+# SAT scoring in public school in New York.
+
+#### **Introduction**
+
+Data about New York City public schools, which can be found [here](https://data.cityofnewyork.us/browse?category=Education). 
+
+The [**SAT**](https://en.wikipedia.org/wiki/SAT) ([/ˌɛsˌeɪˈtiː/](https://en.wikipedia.org/wiki/Help:IPA/English) [*ess-ay-TEE*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)) is a [standardized test](https://en.wikipedia.org/wiki/Standardized_test) widely used for [college admissions in the United States](https://en.wikipedia.org/wiki/College_admissions_in_the_United_States).
+
+In this project will investigate the correlations between SAT scores and demographics. Some factore like race, gender, income and more are influenced the higher score on SAT.
+
+#### **Technologies**
+
+Python 3.6
